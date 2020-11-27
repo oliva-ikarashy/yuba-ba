@@ -1,0 +1,14 @@
+[
+  {
+    "default": true,
+    "source": "./standard"
+  },
+  {
+    "command": "tom",
+    "source": "./yamaguchi"
+  },
+  {
+    "command": "michi",
+    "source": "./hanyu"
+  }
+]
